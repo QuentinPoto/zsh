@@ -256,5 +256,5 @@ alias ls='ls $LS_OPTIONS'
 
 #tmux;
 # if [ "$TMUX" = "" ]; then tmux; fi
-alias francinette=/home/qjungo/francinette/tester.sh
-alias paco=/home/qjungo/francinette/tester.sh
+# alias francinette=/home/qjungo/francinette/tester.sh
+# alias paco=/home/qjungo/francinette/tester.sh
